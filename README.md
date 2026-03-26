@@ -23,14 +23,12 @@ This project analyzes student enrollment, course performance, and instructor eff
 	•	Average enrollment duration helps track administrative efficiency.
 	•	Overall student scores vary across courses, highlighting areas for improvement.
 
-  ## Dashboard Overview
-![Dashboard](Bike-Sales-Analysis/images/Bike_Sales_DashboardOverview.PNG)
+## Some Screenshots
+![Dashboard](LMS_SQL_ANALYSIS/images/Aggregates_PerCourse.PNG)
 
-## Dashboard Interactivity
-![Interactivity](Bike-Sales-Analysis/images/Bike_Sales_Dashboard_Interactivity.PNG)
+![Interactivity](LMS_SQL_ANALYSIS/images/Incorrect_Date.PNG)
 
-## Marital Status Filter
-![Filter](Bike-Sales-Analysis/images/Bike_Sales_Dashboard_MaritalStatus_Slicer.PNG)
+![Filter](LMS_SQL_ANALYSIS/images/Students_table.PNG)
 
 ## 📂 Dataset
 Simulated Learning Management System dataset with the following tables:
