@@ -24,11 +24,14 @@ This project analyzes student enrollment, course performance, and instructor eff
 	•	Overall student scores vary across courses, highlighting areas for improvement.
 
 ## Some Screenshots
-![Dashboard](LMS_SQL_ANALYSIS/images/Aggregates_PerCourse.PNG)
+MIN/MAX and AVERAGE aggregates
+![Dashboard](LMS_SQL_ANALYSIS/images/Analysis/Aggregates_PerCourse.PNG)
 
-![Interactivity](LMS_SQL_ANALYSIS/images/Incorrect_Date.PNG)
+Checking NULL values
+![Interactivity](LMS_SQL_ANALYSIS/images/Anomalies/Incorrect_Date.PNG)
 
-![Filter](LMS_SQL_ANALYSIS/images/Students_table.PNG)
+Students table
+![Filter](LMS_SQL_ANALYSIS/images/Tables/Students_table.PNG)
 
 ## 📂 Dataset
 Simulated Learning Management System dataset with the following tables:
